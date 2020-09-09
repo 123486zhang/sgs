@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">三国杀十周年模拟</string>
+
+    <string name="service_api_key">service_api_key</string>
+    <string name="default_service_api">http://127.0.0.1:1111</string>
+</resources>
